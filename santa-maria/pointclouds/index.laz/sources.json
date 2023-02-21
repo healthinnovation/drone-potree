@@ -1,0 +1,1 @@
+{"bounds":{"min":[308012.43,8625668.85,113.13],"max":[308412.21,8626031.51,212.24]},"projection":"+proj=utm +zone=18 +south +datum=WGS84 +units=m +no_defs","sources":[{"name":"santa_maria_proj_2_rgb.laz","points":1202178,"bounds":{"min":[308012.43,8625668.85,113.13],"max":[308412.21,8626031.51,212.24]}}]}
